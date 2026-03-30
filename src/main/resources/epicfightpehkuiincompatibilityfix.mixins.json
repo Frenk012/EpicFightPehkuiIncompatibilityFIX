@@ -1,0 +1,13 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "com.frenk02.epicpehukifix.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [],
+  "client": [
+    "EpicFightFirstPersonScaleMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}
